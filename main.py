@@ -24,7 +24,7 @@ def main():
     print('4')
     morestr = 'C++ Programming'
     printfunction1(str, morestr)
-    # printfunction2(str, morestr)  # Error
+    #printfunction2(str, morestr)  # Error
 
 
 if __name__ == '__main__':
